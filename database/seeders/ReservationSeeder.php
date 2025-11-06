@@ -14,8 +14,8 @@ class ReservationSeeder extends Seeder
     public function run(): void
     {
         Reservation::create([
-            'name' => 'Csumi Csá1',
-            'email' => 'csumicsa1@moriczref.hu',
+            'name' => 'Csumi Csá12',
+            'email' => 'csumicsa12@moriczref.hu',
             'reservation_time' => '2025-12-21 12:00:00',
             'guests' => 10,
             'note' => 'partipartiparti',
